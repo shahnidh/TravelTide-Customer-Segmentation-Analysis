@@ -1,2 +1,2 @@
-# TravelTide-Customer-Segmentation-Analysis
-A data driven project to create a customer segmentation aimed at enhancing customer retention through a personalized rewards program.
+# TravelTide Customer Segmentation Analysis
+This project aims to segment customers based on their travel and booking behavior. By identifying distinct customer groups, the rewards program can offer tailored perks that align with the preferences of each segment. This personalized approach will help improve customer retention and engagement by offering relevant perks, such as free hotel meals, checked bags, and no cancellation fees, to the right customer groups.
